@@ -1,4 +1,0 @@
-How to merge csv files using Windows Terminal:
-1) Open cmd in folder with csv.
-2) copy *.csv combined-csv-files.csv
-3) ENTER
